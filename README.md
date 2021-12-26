@@ -1,3 +1,3 @@
 # Lab-6
-Python calculator
+Python Calculator by
 Hasmisha Elmaza binti Hasbullah Hasmin -2021189813-
